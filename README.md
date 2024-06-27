@@ -6,6 +6,9 @@
   </tr>
 </table>
 
+### 仓库信息
+![技术栈](https://github-readme-stats.vercel.app/api/top-langs/?username=javadog-net&layout=compact&theme=tokyonight)
+
 
 <!--
 **Ry3n-Huang/Ry3n-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
