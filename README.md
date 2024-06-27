@@ -5,14 +5,15 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Ry3n-Huang/count.svg)
 
-![](https://github-readme-stats.vercel.app/api?username=Ry3n-Huang&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ry3n-Huang&layout=compact&theme=tokyonight)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ry3n-Huang)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **Ry3n-Huang/Ry3n-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api?username=Ry3n-Huang&show_icons=true&theme=transparent)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
