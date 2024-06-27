@@ -5,6 +5,10 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Ry3n-Huang/count.svg)
 
+![](https://github-readme-stats.vercel.app/api?username=Ry3n-Huang&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ry3n-Huang&layout=compact&theme=tokyonight)
+
 <!--
 **Ry3n-Huang/Ry3n-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
