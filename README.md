@@ -5,7 +5,7 @@
     <td><img src="https://github-readme-stats.vercel.app/api?username=Ry3n-Huang&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="HuiDBK's GitHub stats" style="zoom:100%;" align="left"/></td>
   </tr>
 </table>
-
+![](https://github.com/Ry3n-Huang/Ry3n-Huang/blob/output/github-contribution-grid-snake.svg)
 ### 仓库信息
 ![技术栈](https://github-readme-stats.vercel.app/api/top-langs/?username=javadog-net&layout=compact&theme=tokyonight)
 
