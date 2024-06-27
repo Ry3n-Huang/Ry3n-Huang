@@ -3,7 +3,7 @@
 
 ![](https://github.com/Ry3n-Huang/Ry3n-Huang/blob/output/github-contribution-grid-snake.svg)
 
-
+![Visitor Count](https://profile-counter.glitch.me/Ry3n-Huang/count.svg)
 
 <!--
 **Ry3n-Huang/Ry3n-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
