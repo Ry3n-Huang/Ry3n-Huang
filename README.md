@@ -9,7 +9,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ry3n-Huang)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-0820
 <!--
 **Ry3n-Huang/Ry3n-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
