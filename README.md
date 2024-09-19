@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hii there 👋
 
 
 ![](https://github.com/Ry3n-Huang/Ry3n-Huang/blob/output/github-contribution-grid-snake.svg)
