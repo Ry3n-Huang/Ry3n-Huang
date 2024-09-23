@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+<a href="https://www.instagram.com/ry3n_huang/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/xuanming-huang" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
 
 ![](https://github.com/Ry3n-Huang/Ry3n-Huang/blob/output/github-contribution-grid-snake.svg)
 
