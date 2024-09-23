@@ -6,8 +6,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Ry3n-Huang/count.svg)
 
-<a href="https://www.linkedin.com/in/xuanming-huang" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/ry3n_huang/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ry3n-Huang)](https://github.com/ashutosh00710/github-readme-activity-graph)
