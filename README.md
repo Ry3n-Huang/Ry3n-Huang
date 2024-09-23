@@ -5,7 +5,10 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Ry3n-Huang/count.svg)
 
-
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "www.linkedin.com/in/xuanming-huang"
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ry3n-Huang)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
